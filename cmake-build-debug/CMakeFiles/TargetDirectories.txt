@@ -1,0 +1,3 @@
+C:/Users/Wayne Cole/CLionProjects/libraryManagement/librarymanagement/cmake-build-debug/CMakeFiles/CYOAclassheaders.dir
+C:/Users/Wayne Cole/CLionProjects/libraryManagement/librarymanagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wayne Cole/CLionProjects/libraryManagement/librarymanagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir

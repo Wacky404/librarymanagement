@@ -8,9 +8,9 @@ class Wishlist
 public:
     std::string userWishlist(std::vector<Wishlist> &want); //allows user to wishlist items
 
-    Wishlist(); //default constructor
+    Wishlist();
 
-    Wishlist(int user_wishNum, std::string user_date, std::string user_wishGenre, std::string user_wishTitle, std::string wishAuthor); //conversion constructor
+    Wishlist(int user_wishNum, std::string user_date, std::string user_wishGenre, std::string user_wishTitle, std::string wishAuthor);
 
     int getWishNum() const;
 

@@ -7,15 +7,15 @@ class Library
 {
 public:
 
-    void account_creation(std::string name); //lets user create an account
+    void account_creation(std::string name);
 
     static void addBook(std::vector<Library> &shelves);
 
-    void bookSort(std::string book_title);  //sorting books that saved in vector
+    void bookSort(std::string book_title);
 
-    Library(); //default constructor
+    Library();
 
-    Library(int user_seriesNum, std::string user_genre, std::string user_book_title, std::string user_author); //conversion constructor
+    Library(int user_seriesNum, std::string user_genre, std::string user_book_title, std::string user_author);
 
     int getSeriesNum() const;
 

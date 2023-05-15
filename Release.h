@@ -7,9 +7,9 @@ class Release
 public:
     void Upcoming(std::string releaseDate, std::string releaseAuthor, std::string publisher); //allows user to see release dates of books they entered
 
-    Release(); //default constructor
+    Release();
 
-    Release(std::string user_releaseDate, std::string user_releaseAuthor, std::string user_publisher); //conversion constructor
+    Release(std::string user_releaseDate, std::string user_releaseAuthor, std::string user_publisher);
 
     std::string getReleaseDate();
 

@@ -3,7 +3,7 @@
 #include "Library.h"
 #include "Wishlist.h"
 #include "Release.h"
-//Left off: Debugging, headers/cpp files, so that I can run the first grouping of code, in main.cpp, and debug it.
+//Left off: Debugging, headers/cpp files, so that I can run the first grouping of quick code, in main.cpp, and debug it.
 int main()
 {
     std::vector<Library> shelves;
